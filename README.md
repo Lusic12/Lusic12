@@ -13,7 +13,7 @@
 - AI and Deep Learning algorithms in Computer Vision
 - Mathematics in AI
 ## 💬 Ask me about
-- AI technology, Computer Vision, and its applications in telecommunications
+- AI technology, Computer Vision.
 
 ## 🎯 Fun fact
 - Member of AI Viet Nam, AIVN Built beta, AIVN GenAI4E, EE IoT and Machine Learning LAB(H6.403-CS2 HCMUT)
